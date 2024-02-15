@@ -19,6 +19,8 @@ hr {
 
     .lista-rodape {
         display: block;
+        border-left: 1px solid var(--cinza-claro);
+        padding-left: 1em;
     }
 
     .lista-rodape__item {
